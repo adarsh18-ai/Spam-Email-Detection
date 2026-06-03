@@ -19,12 +19,12 @@ Email Text
 → Spam / Not Spam Prediction
 
 Usage
-Enter email text into the input box.
-Click Check Spam.
-View the prediction:
-Spam Email
-Not Spam Email
-Check the Spam Probability score.
+1) Enter email text into the input box.
+2) Click Check Spam.
+3) View the prediction:
+   Spam Email
+   Not Spam Email
+4) Check the Spam Probability score.
 
 Sample Output
 
